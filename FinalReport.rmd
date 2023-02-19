@@ -60,6 +60,13 @@ For the row data, 24% of people with aids took the drug and 75% of them took the
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+chisq.test(table2)
+chisqtestGC(table2)
+fisher.test(table2)
+```
+
+Based on the inferential data, 34 people who took the drug contracted aids and 106 who took the placebo also contracted aids. A total of 2402 participants were not inflicted with aids. 1143 of them took the drug and 1259 had taken the placebo. There's a 0.0000000423% chance of getting the results indicated by the Chi-square statistic. The Fisher's test states that the odd ratio is 0.35.
 
 # Discussion and Conclusion
 
