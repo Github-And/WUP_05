@@ -71,3 +71,4 @@ Based on the inferential data, 34 people who took the drug contracted aids and 1
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+In summary, we can conclude that the small minority of people who had taken the drug, nearly 3%, contracted aids. 8% of the ones who had taken the placebo also contracted aids. A vast majority of particpants who took the drug and placebo did not contract aids, being 97% and 92% of participants respectively. 48% of participants were given the drug and 52% were given the placebo. Based on the data shown, the drug seems to be effective, but there is still a small chance of contracting aids.
